@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github.com/klauskpm/changelog-cicd/compare/v2.0.0...v2.1.0) (2020-01-12)
+
+
+### Features
+
+* removi os textos de novo ([28794ef](https://github.com/klauskpm/changelog-cicd/commit/28794ef1a1261a80fc8522cad9a72994cee41736)), closes [#123](https://github.com/klauskpm/changelog-cicd/issues/123) [#443](https://github.com/klauskpm/changelog-cicd/issues/443)
+* **commits:** adicionei os textos ([102a14d](https://github.com/klauskpm/changelog-cicd/commit/102a14d1cad418cb70c0d6adcf555bbf4d096e1d))
+* **commits:** removi os textos ([db84ab4](https://github.com/klauskpm/changelog-cicd/commit/db84ab49c561f2577d2cde6dd007365c8c1ef796))
+
 ## [2.0.0](https://github.com/klauskpm/changelog-cicd/compare/v1.1.0...v2.0.0) (2020-01-12)
 
 

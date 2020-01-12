@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.1](https://github.com/klauskpm/changelog-cicd/compare/v2.1.0...v2.1.1) (2020-01-12)
+
+
+### Melhorias de Performance
+
+* melhorei a performance com bbb ([069fd9b](https://github.com/klauskpm/changelog-cicd/commit/069fd9b3477b37b7707ad3ad4ec06676f2a89b37))
+
 ## [2.1.0](https://github.com/klauskpm/changelog-cicd/compare/v2.0.0...v2.1.0) (2020-01-12)
 
 

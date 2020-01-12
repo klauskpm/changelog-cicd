@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.0.0](https://github.com/klauskpm/changelog-cicd/compare/v1.1.0...v2.0.0) (2020-01-12)
+
+
+### ⚠ BREAKING CHANGES
+
+* quebrou o código
+
+### Bug Fixes
+
+* adicionei outra linha ([936f872](https://github.com/klauskpm/changelog-cicd/commit/936f8721998f51e56db0907fc95566c2adb8aa17))
+
 ## [1.1.0](https://github.com/klauskpm/changelog-cicd/compare/v1.0.1...v1.1.0) (2020-01-12)
 
 
